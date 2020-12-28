@@ -1,0 +1,29 @@
+{
+  "name": "treasure-extractor",
+  "version": "1.0.0",
+  "description": "Extracts images from a Booru imageboard.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloro-official/treasure-extractor.git"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "js",
+    "booru",
+    "win32"
+  ],
+  "author": "CLORO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloro-official/treasure-extractor/issues"
+  },
+  "homepage": "https://github.com/cloro-official/treasure-extractor#readme",
+  "dependencies": {
+    "booru": "^2.4.0"
+  }
+}
